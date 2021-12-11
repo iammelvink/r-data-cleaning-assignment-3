@@ -7,7 +7,7 @@ source("utils/loadpackages.R")
 # Load data
 source("utils/load_data.R")
 
-# URL for dataset
+# URL for data set
 fileUrl <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 download_data(fileUrl)
 

@@ -2,6 +2,10 @@
 
 ## Repository for my Getting and Cleaning Data Course Project on Coursera
 
+Author [Melvin Kisten](https://github.com/iammelvink 'Melvin Kisten') explores **getting and cleaning data** for an in depth **course project** on Coursera
+
+
+
 Written in **R**
 
 1. Methodologies/Project Management:
@@ -16,9 +20,9 @@ Written in **R**
 
    - R
 
-## Live Demo
+## Read
 
-- [loading](https://loading.herokuapp.com/ 'loading')
+- [CodeBook](CodeBook.md 'CodeBook.md')
 
 ## Instructions
 
@@ -41,9 +45,9 @@ Written in **R**
    cd r-data-cleaning-assignment-3/
    ```
 
-7. Run from `ui.R`
+4. Run from **`run_analysis.R`**
 
-8. Enjoy!
+5. Enjoy!
 
 ## More Stuff
 
