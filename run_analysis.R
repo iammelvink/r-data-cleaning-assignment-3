@@ -80,4 +80,4 @@ combined <-
                     fun.aggregate = mean)
 
 # Creates a second, independent tidy data set with the average of each variable for each activity and each subject ----
-write.table(combined, file = "./data/tidy_dataset.txt", row.names = FALSE)
+write.table(combined, file = "tidy_dataset.txt", row.names = FALSE)
